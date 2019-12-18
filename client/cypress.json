@@ -1,0 +1,4 @@
+{
+  "testFiles": "**/*.test.js",
+  "baseUrl": "http://localhost:3000"
+}
